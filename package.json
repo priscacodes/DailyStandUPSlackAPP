@@ -42,7 +42,7 @@
     "socket.io": "^2.2.0",
     "uuid": "^3.3.3",
     "uuid-by-string": "^2.1.5",
-    "xlsx": "^0.15.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
